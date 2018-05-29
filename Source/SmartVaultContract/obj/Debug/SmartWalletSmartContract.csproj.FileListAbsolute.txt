@@ -1,0 +1,9 @@
+C:\myDevelop\SmartWallet\SmartWalletSmartContract\bin\Debug\nmap.bat
+C:\myDevelop\SmartWallet\SmartWalletSmartContract\bin\Debug\SmartWallet.dll
+C:\myDevelop\SmartWallet\SmartWalletSmartContract\bin\Debug\SmartWallet.pdb
+C:\myDevelop\SmartWallet\SmartWalletSmartContract\bin\Debug\Neo.SmartContract.Framework.dll
+C:\myDevelop\SmartWallet\SmartWalletSmartContract\obj\Debug\SmartWalletSmartContract.csprojAssemblyReference.cache
+C:\myDevelop\SmartWallet\SmartWalletSmartContract\obj\Debug\SmartWalletSmartContract.csproj.CoreCompileInputs.cache
+C:\myDevelop\SmartWallet\SmartWalletSmartContract\obj\Debug\SmartWalletSmartContract.csproj.CopyComplete
+C:\myDevelop\SmartWallet\SmartWalletSmartContract\obj\Debug\SmartWallet.dll
+C:\myDevelop\SmartWallet\SmartWalletSmartContract\obj\Debug\SmartWallet.pdb

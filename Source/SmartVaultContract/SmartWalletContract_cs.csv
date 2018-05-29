@@ -1,0 +1,20 @@
+
+"Tally by Opcode"
+
+"","","Opcode (Hex) >","0x00","0x05","0x52","0x61","0x66","0x68","0x6B","0x6C","0x72","0x75","0xC5","0xFF"
+"","","Opcode >","PUSH0","5","PUSH2","NOP","RET","SYSCALL","TOALTSTACK","FROMALTSTACK","XSWAP","DROP","NEWARRAY","_STORAGE"
+"","","Cost >","0","0","0","0","0.001","0.001","0.001","0.001","0.001","0.001","0.001","1"
+"C:\myDevelop\neo-contracts\NeoContractTestBed\SmartWallet\SmartWalletContract.cs","0","// No source code available","1","2","1","5","1","2","1","1","1","1","1","1"
+"C:\myDevelop\neo-contracts\NeoContractTestBed\SmartWallet\SmartWalletContract.cs","12","        }","1","0","0","0","1","0","0","0","0","0","0","0"
+"","","Tally by Opcode>","2","2","1","5","2","2","1","1","1","1","1","1"
+"","","Total Tally>","20"
+
+"Costs by Opcode"
+
+"","","Opcode (Hex) >","0x00","0x05","0x52","0x61","0x66","0x68","0x6B","0x6C","0x72","0x75","0xC5","0xFF"
+"","","Opcode >","PUSH0","5","PUSH2","NOP","RET","SYSCALL","TOALTSTACK","FROMALTSTACK","XSWAP","DROP","NEWARRAY","_STORAGE"
+"","","Cost >","0","0","0","0","0.001","0.001","0.001","0.001","0.001","0.001","0.001","1"
+"C:\myDevelop\neo-contracts\NeoContractTestBed\SmartWallet\SmartWalletContract.cs","0","// No source code available","0","0","0","0","0","0.002","0","0","0","0","0","0"
+"C:\myDevelop\neo-contracts\NeoContractTestBed\SmartWallet\SmartWalletContract.cs","12","        }","0","0","0","0","0","0","0","0","0","0","0","0"
+"","","Costs by Opcode>","0","0","0","0","0","0.002","0","0","0","0","0","0"
+"","","Total Cost>","0.002"

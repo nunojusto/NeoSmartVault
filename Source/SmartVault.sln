@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartVaultSmartContract", "SmartVaultContract\SmartVaultSmartContract.csproj", "{2F5BAABC-630D-4A02-AD1A-EBC9F5EE8276}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartVault.ConsoleApp", "SmartVault.ConsoleApp\SmartVault.ConsoleApp.csproj", "{25AA14B2-006D-476A-8FFA-220C37EFE34B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F5BAABC-630D-4A02-AD1A-EBC9F5EE8276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F5BAABC-630D-4A02-AD1A-EBC9F5EE8276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F5BAABC-630D-4A02-AD1A-EBC9F5EE8276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F5BAABC-630D-4A02-AD1A-EBC9F5EE8276}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25AA14B2-006D-476A-8FFA-220C37EFE34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25AA14B2-006D-476A-8FFA-220C37EFE34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25AA14B2-006D-476A-8FFA-220C37EFE34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25AA14B2-006D-476A-8FFA-220C37EFE34B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA7E232D-2135-4332-A533-2E94C6C0121E}
+	EndGlobalSection
+EndGlobal

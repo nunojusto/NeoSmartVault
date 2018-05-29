@@ -1,0 +1,16 @@
+C:\myDevelop\neo-contracts\NeoContractTestBed\SmartWallet\bin\Debug\SmartWallet.dll
+C:\myDevelop\neo-contracts\NeoContractTestBed\SmartWallet\bin\Debug\SmartWallet.pdb
+C:\myDevelop\neo-contracts\NeoContractTestBed\SmartWallet\bin\Debug\Neo.SmartContract.Framework.dll
+C:\myDevelop\neo-contracts\NeoContractTestBed\SmartWallet\obj\Debug\SmartWallet.csprojResolveAssemblyReference.cache
+C:\myDevelop\neo-contracts\NeoContractTestBed\SmartWallet\obj\Debug\SmartWallet.csproj.CoreCompileInputs.cache
+C:\myDevelop\neo-contracts\NeoContractTestBed\SmartWallet\obj\Debug\SmartWallet.csproj.CopyComplete
+C:\myDevelop\neo-contracts\NeoContractTestBed\SmartWallet\obj\Debug\SmartWallet.dll
+C:\myDevelop\neo-contracts\NeoContractTestBed\SmartWallet\obj\Debug\SmartWallet.pdb
+C:\myDevelop\neo-contracts\SmartWallet\bin\Debug\nmap.bat
+C:\myDevelop\neo-contracts\SmartWallet\bin\Debug\SmartWallet.dll
+C:\myDevelop\neo-contracts\SmartWallet\bin\Debug\SmartWallet.pdb
+C:\myDevelop\neo-contracts\SmartWallet\bin\Debug\Neo.SmartContract.Framework.dll
+C:\myDevelop\neo-contracts\SmartWallet\obj\Debug\SmartWallet.csproj.CoreCompileInputs.cache
+C:\myDevelop\neo-contracts\SmartWallet\obj\Debug\SmartWallet.csproj.CopyComplete
+C:\myDevelop\neo-contracts\SmartWallet\obj\Debug\SmartWallet.dll
+C:\myDevelop\neo-contracts\SmartWallet\obj\Debug\SmartWallet.pdb
